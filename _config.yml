@@ -1,7 +1,4 @@
-theme: jekyll-theme-minimal
 title: Divyang Hirpara | Engineering Manager & Team Lead
-description: >
-  12+ years of expertise in Ruby on Rails and IoT architecture. 
-  Dedicated to leading high-performing engineering teams, 
-  mentoring developers, and architecting scalable cloud 
-  solutions with AWS.
+description: 12+ years of expertise in Ruby on Rails and IoT architecture. Dedicated to leading high-performing engineering teams, mentoring developers, and architecting scalable cloud solutions with AWS.
+url: https://divyang9389.github.io
+baseurl: ""
